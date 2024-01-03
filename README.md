@@ -1,6 +1,6 @@
 # FireDetectNet
 
-FireDetectNet is an open-source deep learning project that focuses on fire detection in images using state-of-the-art convolutional neural networks (CNNs). This repository provides a comprehensive solution for training, evaluating, and deploying a robust fire detection model. Our goal is to contribute to fire safety and emergency response efforts by automating the process of identifying fires in images. Whether you're interested in fire prevention or monitoring, FireDetectNet offers a powerful tool for image-based fire detection.
+FireDetectNet is an deep learning project that focuses on fire detection in images using state-of-the-art convolutional neural networks (CNNs). This repository provides a comprehensive solution for training, evaluating, and deploying a robust fire detection model. My goal is to contribute to fire safety and emergency response efforts by automating the process of identifying fires in images. Whether you're interested in fire prevention or monitoring, FireDetectNet offers a powerful tool for image-based fire detection.
 
 ## Key Features
 
