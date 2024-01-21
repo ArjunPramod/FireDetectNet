@@ -97,4 +97,4 @@ This project focuses on detecting fires in UAV images using a convolutional neur
 3. **Prediction:** Deploy the trained model to make predictions on new images for fire detection.
 
 ## License
-This project is licensed under the Attribution-NonCommercial-NoDerivs 4.0 International (CC BY-NC-ND 4.0) License.
+This project is licensed under the Attribution-NonCommercial-NoDerivs 4.0 International (CC BY-NC-ND 4.0) [License](https://github.com/ArjunPramod/FireDetectNet/blob/main/LICENSE.md).
